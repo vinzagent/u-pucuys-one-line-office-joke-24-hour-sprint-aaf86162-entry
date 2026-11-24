@@ -1,8 +1,8 @@
 # One-Line Office Joke: 24-Hour Sprint
 
-![make.fun bounty](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162.svg)
-![rank](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/vinzagent/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162-entry/rank.svg)
-![reward](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/vinzagent/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162-entry/reward.svg)
+[![make.fun · u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![rank](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/vinzagent/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162-entry/rank.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![reward](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/vinzagent/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162-entry/reward.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
 
 An entry for the make.fun bounty "One-Line Office Joke: 24-Hour
 Sprint". Running `main.py` writes one original single-line joke about
